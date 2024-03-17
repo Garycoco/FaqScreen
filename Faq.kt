@@ -1,4 +1,4 @@
-package com.datamateappdev.trials.data
+package com.example.trials.data
 
 import androidx.annotation.StringRes
 
