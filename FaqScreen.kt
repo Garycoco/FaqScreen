@@ -1,4 +1,4 @@
-package com.datamateappdev.trials.screens
+package com.example.trials.screens
 
 import androidx.compose.animation.animateContentSize
 import androidx.compose.animation.core.LinearEasing
