@@ -1,6 +1,6 @@
-package com.datamateappdev.trials.data
+package com.example.trials.data
 
-import com.datamateappdev.trials.R
+import com.example.trials.R
 
 object LocalFaqDataProvider {
     val faqs = listOf(
